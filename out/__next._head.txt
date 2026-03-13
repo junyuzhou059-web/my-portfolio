@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[96908,["/_next/static/chunks/ddb405acc9ef3c38.js"],"ViewportBoundary"]
+3:I[96908,["/_next/static/chunks/ddb405acc9ef3c38.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[71377,["/_next/static/chunks/ddb405acc9ef3c38.js"],"IconMark"]
+0:{"buildId":"xMniW_LYRkpiubYZx7XJH","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"周俊宇 | Junyu Zhou - Product Manager"}],["$","meta","1",{"name":"description","content":"周俊宇，中山大学本科，现居广州。Product Manager & User Research Explorer。好奇驱使，发现问题，总结需求，挖掘理论，技术应用。"}],["$","meta","2",{"name":"generator","content":"v0.app"}],["$","link","3",{"rel":"icon","href":"/icon-light-32x32.png","media":"(prefers-color-scheme: light)"}],["$","link","4",{"rel":"icon","href":"/icon-dark-32x32.png","media":"(prefers-color-scheme: dark)"}],["$","link","5",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","6",{"rel":"apple-touch-icon","href":"/apple-icon.png"}],["$","$L5","7",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
