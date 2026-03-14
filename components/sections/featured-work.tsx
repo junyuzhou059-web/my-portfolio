@@ -21,7 +21,7 @@ const works = [
 
 export function FeaturedWork() {
   return (
-    <section className="py-20 md:py-28">
+    <section className="pt-12 pb-16 md:pt-16 md:pb-20">
       <h2 className="text-xs font-medium tracking-widest text-muted-foreground uppercase mb-8">
         Featured Work
       </h2>

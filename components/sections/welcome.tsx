@@ -2,7 +2,7 @@ const aiTools = ["GPT", "Cursor", "V0", "Alibaba Cloud"]
 
 export function Welcome() {
   return (
-    <section className="py-20 md:py-24">
+    <section className="pt-20 pb-12 md:pt-24 md:pb-16">
       <div className="max-w-[900px] mx-auto">
         <div className="rounded-2xl border border-border bg-card/50 p-8 md:p-12 shadow-sm">
           <div className="flex flex-col lg:flex-row gap-10 lg:gap-16">
