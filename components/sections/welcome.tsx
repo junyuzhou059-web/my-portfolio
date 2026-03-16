@@ -1,4 +1,4 @@
-const aiTools = ["GPT", "Cursor", "V0", "Alibaba Cloud"]
+const aiTools = ["GPT", "Cursor", "V0", "Cloudflare"]
 
 export function Welcome() {
   return (
