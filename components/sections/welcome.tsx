@@ -26,7 +26,7 @@ export function Welcome() {
                 </p>
 
                 <p>
-                  它由 GPT、Cursor、V0 等 AI 工具辅助生成，并部署在阿里云上。
+                  它由 GPT、Cursor、V0 等 AI 工具辅助生成，并部署在Cloudfare上，链接阿里云购买的域名。
                 </p>
 
                 <p>
