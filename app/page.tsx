@@ -86,7 +86,7 @@ function NavigationTabs() {
           <section className="py-8 md:py-12 space-y-12 md:space-y-16">
             <WorkPreviewSection
               title="成果示例"
-              linkHref="https://www.figma.com/design/TeUd7oOyk9fEK5eYtpJkNv/arthur_figma%E4%BD%9C%E5%93%81?node-id=10-2&t=OM1N6fdvzjJelmk5-1"
+              linkHref="https://www.figma.com/design/TeUd7oOyk9fEK5eYtpJkNv/arthur_figma%E4%BD%9C%E5%93%81?node-id=658-2169&t=YMRxKeKw8kiBwYSJ-1"
               linkLabel="前往 Figma 查看更多 →"
               imageA="/work-figma-1.jpg"
               imageB="/work-figma-2.jpg"
